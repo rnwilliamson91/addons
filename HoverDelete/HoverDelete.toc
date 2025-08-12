@@ -1,0 +1,7 @@
+## Interface: 30305
+## Title: Hover Delete
+## Notes: Deletes hovered junk items automatically or on keybind.
+## Author: YourName
+## Version: 1.0
+
+HoverDelete.lua
