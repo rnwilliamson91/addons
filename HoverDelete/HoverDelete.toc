@@ -3,5 +3,7 @@
 ## Notes: Deletes hovered junk items automatically or on keybind.
 ## Author: YourName
 ## Version: 1.0
+## SavedVariables: AutoDeleteJunkDB
 
 HoverDelete.lua
+HoverDelete_UI.lua
